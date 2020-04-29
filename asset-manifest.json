@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Doggo-Finder/static/css/main.24d8d738.chunk.css",
+    "main.js": "/Doggo-Finder/static/js/main.0c2cfd28.chunk.js",
+    "main.js.map": "/Doggo-Finder/static/js/main.0c2cfd28.chunk.js.map",
+    "runtime-main.js": "/Doggo-Finder/static/js/runtime-main.913cc56f.js",
+    "runtime-main.js.map": "/Doggo-Finder/static/js/runtime-main.913cc56f.js.map",
+    "static/css/2.69121389.chunk.css": "/Doggo-Finder/static/css/2.69121389.chunk.css",
+    "static/js/2.3dee9b19.chunk.js": "/Doggo-Finder/static/js/2.3dee9b19.chunk.js",
+    "static/js/2.3dee9b19.chunk.js.map": "/Doggo-Finder/static/js/2.3dee9b19.chunk.js.map",
+    "index.html": "/Doggo-Finder/index.html",
+    "precache-manifest.28c2061aef98ce18b533c5ad1edf2ba3.js": "/Doggo-Finder/precache-manifest.28c2061aef98ce18b533c5ad1edf2ba3.js",
+    "service-worker.js": "/Doggo-Finder/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/Doggo-Finder/static/css/2.69121389.chunk.css.map",
+    "static/css/main.24d8d738.chunk.css.map": "/Doggo-Finder/static/css/main.24d8d738.chunk.css.map",
+    "static/js/2.3dee9b19.chunk.js.LICENSE.txt": "/Doggo-Finder/static/js/2.3dee9b19.chunk.js.LICENSE.txt",
+    "static/media/hazel.jpg": "/Doggo-Finder/static/media/hazel.4eb85e80.jpg",
+    "static/media/tubby.jpg": "/Doggo-Finder/static/media/tubby.2f47cb65.jpg",
+    "static/media/whiskey.jpg": "/Doggo-Finder/static/media/whiskey.5c1e3b17.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.913cc56f.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.3dee9b19.chunk.js",
+    "static/css/main.24d8d738.chunk.css",
+    "static/js/main.0c2cfd28.chunk.js"
+  ]
+}
