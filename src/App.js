@@ -1,5 +1,10 @@
 import React, { Component } from "react";
 import "./App.css";
+import { Route } from "react-router-dom";
+import whiskey from "./images/whiskey.jpg";
+import hazel from "./images/hazel.jpg";
+import tubby from "./images/tubby.jpg";
+import DogList from "./DogList";
 
 class App extends Component {
   static defaultProps = {
@@ -38,9 +43,7 @@ class App extends Component {
   };
   render() {
     return (
-      <div className="App">
-        <h1 className="display-1">Doggo App!</h1>
-      </div>
+      <Route path="/dogs" render={() => <DogList dogs={this.props.dogs } />} />
     );
   }
 }
