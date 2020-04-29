@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "./DogList.css";
+import { Link } from "react-router-dom";
 
 class DogList extends Component {
   render() {
@@ -10,7 +11,9 @@ class DogList extends Component {
           {this.props.dogs.map((d) => (
             <div className="Dog col-lg-4 text-center" key={d.name}>
               <img src={d.src} alt={d.name} />
-              <h3>{d.name}</h3>
+              <h3>
+                <Link to={`/dogs/${d.name}`}>{d.name}</Link>
+              </h3>
             </div>
           ))}
         </div>
