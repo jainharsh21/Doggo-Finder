@@ -3,7 +3,11 @@ import "./App.css";
 
 class App extends Component {
   render() {
-    return <div>HI</div>;
+    return (
+      <div className="App">
+        <h1 className="display-1">Doggo App!</h1>
+      </div>
+    );
   }
 }
 
